@@ -1,0 +1,89 @@
+div{
+
+    width: 600px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-align: center;
+
+}
+
+.topo{
+
+    width: 800px;
+    margin: 0% auto;
+    text-align: center;
+
+}
+
+.banner{
+
+    width: 100%;
+    margin: 0 auto;
+    border-top: 10px;
+    border-bottom: 10px;
+    text-align: center;
+
+}
+
+h1{
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h3{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h2{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+body{
+
+    text-align: center;
+
+}
+
+span{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 174, 255);
+
+}
+
+p{
+
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.area{
+
+    border: 6px solid rgb(0, 174, 255);
+
+}
+
+.crianca{
+
+    border: 6px solid rgb(0, 174, 255);
+
+}
+
+.piscina{
+
+    border: 6px solid rgb(0, 174, 255);
+
+}
+
+span{
+
+font-weight: bold;
+
+}
